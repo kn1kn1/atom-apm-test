@@ -25,6 +25,7 @@ RUN \
     python \
     gvfs-bin \
     xdg-utils \
+    libxss1 \
 #  For downloading deb
     wget \
     ca-certificates \
